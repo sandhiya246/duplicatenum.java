@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Demo{
     public static void main(String[] args){
-        System.out.println("updated dev project");
+        System.out.println("updated demo project");
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt(),i,j,k;
         int[] a=new int[n];
